@@ -1,0 +1,3 @@
+[![Node.js CI](https://github.com/ULL-ESIT-INF-DSI-2122/Ejercicios_PE/actions/workflows/node.js.yml/badge.svg)](https://github.com/ULL-ESIT-INF-DSI-2122/Ejercicios_PE/actions/workflows/node.js.yml)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ULL-ESIT-INF-DSI-2122_Ejercicios_PE&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ULL-ESIT-INF-DSI-2122_Ejercicios_PE)
