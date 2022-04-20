@@ -1,7 +1,6 @@
 {
     "entryPoints": [
-        "./src/ejemplo-1",
-        "./src/ejemplo-2"
+        "./src/pe-101-20-04.ts"
     ],
     "out": "./docs"
 }
